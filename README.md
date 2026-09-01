@@ -16,7 +16,7 @@ An Angular dashboard showing current conditions for six cities, powered by
    ```ts
    export const environment = {
      production: false,
-     weatherApiKey: 'YOUR_WEATHERAPI_KEY', // <-- paste your key here
+     weatherApiKey: '2e7b761009d44c66a2f113152260109', // <-- paste your key here
      weatherApiBaseUrl: 'https://api.weatherapi.com/v1',
    };
    ```
